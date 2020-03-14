@@ -17,10 +17,10 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-1.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
+											<h3><a href="https://irtzmalik.github.io/Password_Generator/">Password Generator</a></h3>
 											<span>Password Generator</span>
 											<p className="icon">
-											<span><a href="#"><i className="icon-share3" /></a></span>	
+											<span><a href="https://irtzmalik.github.io/Password_Generator/"><i className="icon-share3" /></a></span>	
 											</p>
 										</div>
 									</div>
@@ -30,10 +30,10 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-2.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="https://irtzmalik.github.io/CodeQuiz/">Code Quiz</a></h3>
+											<span>Code Quiz</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="https://irtzmalik.github.io/CodeQuiz/"><i className="icon-share3" /></a></span>
 
 											</p>
 										</div>
@@ -44,10 +44,10 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-3.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="https://saltamay.github.io/simply/">Simply</a></h3>
+											<span>Simply (Group Project)</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="https://saltamay.github.io/simply/"><i className="icon-share3" /></a></span>
 
 											</p>
 										</div>
@@ -58,10 +58,10 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-4.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
+											<h3><a href="https://quiz-journey.herokuapp.com/">Quiz Journey</a></h3>
+											<span>Quiz Journey</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="https://quiz-journey.herokuapp.com/"><i className="icon-share3" /></a></span>
 
 											</p>
 										</div>
@@ -69,17 +69,17 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-5.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">TBA</a></h3>
-											<span>TBA,</span>
+											<h3><a href="https://github.com/irtzmalik/Dev_Profile_Generator">Developer Profile Generator</a></h3>
+											<span>Dev_Profile_Generator</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="https://github.com/irtzmalik/Dev_Profile_Generator"><i className="icon-share3" /></a></span>
 
 											</p>
 										</div>
-									</div> Logo
+									</div> 
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
